@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-EntityDataModel.Context",
+      "appliesTo": "MRNNexus_DAL/EntityDataModel.Context.tt",
+      "type": "command"
+    }
+  ]
+}
